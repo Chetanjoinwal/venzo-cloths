@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom"
 import { Collection } from "../Component/Collection" 
 import Bannerheadline from "../Component/bannerheadline"
-import Headline from "../Component/Headline";
+import Headline from "../Component/Headline"
 // import Breadcrumbs from "../Component/breadcrumb 
 export default function Home() {
   return (  <>  {/* <Breadcrumbs /> */} 
