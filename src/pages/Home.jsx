@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom"
-import { Collection } from "../Component/Collection" 
-import {Bannerheadline} from "../Component/bannerheadline"
+import { Collection } from "../Component/Collection"  
 import {Headline} from "../Component/Headline"
 // import Breadcrumbs from "../Component/breadcrumb 
 export default function Home() {
@@ -30,8 +29,8 @@ export default function Home() {
         </div> 
         <Link to="/about">About</Link>
       </section> 
-      <Headline />
-      <Bannerheadline />
+      <Headline /> 
+      
     </>
   );
 }
