@@ -30,7 +30,7 @@ export default function Home() {
         </div> 
         <Link to="/about">About</Link>
       </section> 
-      <Headline></Headline>
+      <Headline />
       <Bannerheadline />
     </>
   );
